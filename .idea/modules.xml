@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\WorkFile\BackgroundUpdate-master\BackgroundUpdate.iml" filepath="D:\WorkFile\BackgroundUpdate-master\BackgroundUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackgroundUpdate-master.iml" filepath="$PROJECT_DIR$/BackgroundUpdate-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\WorkFile\BackgroundUpdate-master\app\app.iml" filepath="D:\WorkFile\BackgroundUpdate-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgupdate/bgupdate.iml" filepath="$PROJECT_DIR$/bgupdate/bgupdate.iml" />
+      <module fileurl="file://D:\WorkFile\BackgroundUpdate-master\bgupdate\bgupdate.iml" filepath="D:\WorkFile\BackgroundUpdate-master\bgupdate\bgupdate.iml" />
+    </modules>
+  </component>
+</project>
